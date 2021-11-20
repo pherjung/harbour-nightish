@@ -1,11 +1,11 @@
 Name: harbour-nightish
-Summary: Eyes-saving App
+Summary: Eyes-saving app
 Version: 0.1
-Release: 1
+Release: 2
 # The contents of the Group field should be one of the groups listed here:
 # https://github.com/mer-tools/spectacle/blob/master/data/GROUPS
 Group: Qt/Qt
-URL: http://example.org/
+URL: https://openrepos.net/
 License: LICENSE
 # This must be generated before uploading a package to a remote build service.
 # Usually this line does not need to be modified.
