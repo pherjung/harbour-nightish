@@ -12,7 +12,7 @@ License: LICENSE
 Sources:
 - '%{name}-%{version}.tar.bz2'
 Description: |
-  Short description of my Sailfish OS Application
+  An application for preserving vision
 Builder: qmake5
 
 # This section specifies build dependencies that are resolved using pkgconfig.
