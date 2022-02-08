@@ -2,8 +2,10 @@ import QtQuick 2.6
 import Sailfish.Silica 1.0
 import "pages"
 
-ApplicationWindow
-{
+ApplicationWindow {
+    cover: Qt.resolvedUrl("cover/CoverPage.qml")
+    allowedOrientations: defaultAllowedOrientations
+
     id: appWindow
 
     initialPage: Component { Settings { } }
@@ -39,5 +41,3 @@ ApplicationWindow
 
     onApplicationActiveChanged: helper.checkOverlay()
 }
-
-
