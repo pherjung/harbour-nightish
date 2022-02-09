@@ -1,0 +1,19 @@
+{
+    "translation_catalog": "settings-nightish",
+    "entries": [
+        {
+            "path": "system_settings/look_and_feel/nightish",
+            "type": "page",
+            "title": "Nightish",
+            "translation_id": "Nightish",
+            "order": 2001,
+            "params": {
+                "source": "/usr/share/harbour-nightish/qml/pages/Settings.qml"
+
+            }
+
+        }
+
+    ]
+
+}
